@@ -1,0 +1,22 @@
+# Build output
+out/
+
+# Local data files
+data/
+
+# Compiled class files
+*.class
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+
+# IDE/editor files
+.vscode/
+*.iml
+
+# Shell script execution permission changes
+run.sh
