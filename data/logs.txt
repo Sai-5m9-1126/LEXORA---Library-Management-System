@@ -1,0 +1,14 @@
+[2026-06-29 19:25:37] [INFO] [SYSTEM] Library loaded: 0 books, 0 users, 0 transactions.
+[2026-06-29 19:25:49] [WARN] [SYSTEM] LOGIN_FAIL | userId=admin | reason=NOT_FOUND
+[2026-06-29 19:26:47] [WARN] [SYSTEM] LOGIN_FAIL | userId=admin | reason=NOT_FOUND
+[2026-06-29 19:26:55] [WARN] [SYSTEM] LOGIN_FAIL | userId=admin | reason=NOT_FOUND
+[2026-06-29 19:27:43] [AUDIT] [admin001] LOGIN | userId=admin001 | role=ADMIN
+[2026-06-29 19:27:47] [AUDIT] [admin001] LOGOUT | userId=admin001
+[2026-06-29 19:28:05] [INFO] [SYSTEM] Library loaded: 12 books, 5 users, 0 transactions.
+[2026-06-29 20:24:35] [AUDIT] [admin001] LOGIN | userId=admin001 | role=ADMIN
+[2026-06-29 20:30:43] [AUDIT] [admin001] ADD_BOOK | isbn=9780134685991 | title=Effective java
+[2026-06-29 20:37:15] [WARN] [admin001] BORROW_FAIL | This book has been archived and is not available for borrowing.
+[2026-06-29 20:38:49] [INFO] [SYSTEM] Library loaded: 13 books, 6 users, 0 transactions.
+[2026-06-29 20:39:04] [AUDIT] [admin001] LOGIN | userId=admin001 | role=ADMIN
+[2026-06-29 20:39:34] [AUDIT] [admin001] BORROW | user=admin001 | isbn=9780385737951 | title=The Fault in Our Stars | due=2026-07-13 | txn=TXN1001
+[2026-06-29 20:41:14] [AUDIT] [admin001] LOGOUT | userId=admin001

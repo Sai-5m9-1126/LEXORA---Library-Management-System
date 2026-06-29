@@ -1,0 +1,12 @@
+9780132350884|Clean Code|Robert C. Martin|Computer Science|2008|Prentice Hall|3|3|AVAILABLE|||0.0|0|0|||false
+9780201616224|The Pragmatic Programmer|Andrew Hunt|Computer Science|1999|Addison-Wesley|2|2|AVAILABLE|||0.0|0|0|||false
+9780743273565|The Great Gatsby|F. Scott Fitzgerald|Fiction|1925|Scribner|5|5|AVAILABLE|||0.0|0|0|||false
+9780451524935|1984|George Orwell|Dystopian Fiction|1949|Signet Classic|4|4|AVAILABLE|||0.0|0|0|||false
+9780062316097|The Alchemist|Paulo Coelho|Fiction|1988|HarperOne|3|3|AVAILABLE|||0.0|0|0|||false
+9780316769174|The Catcher in the Rye|J.D. Salinger|Fiction|1951|Little, Brown|2|2|AVAILABLE|||0.0|0|0|||false
+9780375842207|Atomic Habits|James Clear|Self Help|2018|Avery|4|4|AVAILABLE|||0.0|0|0|||false
+9780525559474|The Psychology of Money|Morgan Housel|Finance|2020|Harriman House|3|3|AVAILABLE|||0.0|0|0|||false
+9780307474278|The Power of Now|Eckhart Tolle|Spirituality|1997|New World Library|2|2|AVAILABLE|||0.0|0|0|||false
+9780679720201|One Hundred Years of Solitude|Gabriel Garcia Marquez|Literary Fiction|1967|Vintage|2|2|AVAILABLE|||0.0|0|0|||false
+9780385737951|The Fault in Our Stars|John Green|Young Adult|2012|Dutton Books|3|3|AVAILABLE|||0.0|0|0|||false
+9780439023481|The Hunger Games|Suzanne Collins|Young Adult|2008|Scholastic|4|4|AVAILABLE|||0.0|0|0|||false
